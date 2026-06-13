@@ -6,7 +6,7 @@ This tournament complies with [Valve's Tournament Operator Requirements](https:/
 
 This does not confirm with 100% certainty that the event is "Ranked" and relies on data coverage by HLTV. Station Strike will apply for HLTV coverage under their specific guidelines no more than 15 days prior to the start of the "Main Event" stage.
 
-Station Strike is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all of our Counter-Strike LAN events since Station Strike.
+Station Strike is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all Counter-Strike LAN events organized by FragAdmin.
 
 ## **Required Details**
 Match Dates: 22/07/2026 - 26/07/2026
@@ -31,6 +31,6 @@ Visa Region: France
 
 Tournament Location: France / Station 35 (LAN)
 
-Teams will be seeded by the VRS Rankings July 6th invite update, for teams that do not have a VRS rank they will be seeded in accordance Faceit Elo.
+Teams will be seeded by the VRS Rankings July 6th invite update. For teams that do not have a VRS rank, they will be seeded in accordance with Faceit Elo.
 
 Prize pool distribution can be found [here](https://github.com/French-CSGO/Station-Strike/blob/main/Station%20Strike%202026%20-%20Official%20Tournament%20Rulebook.md).

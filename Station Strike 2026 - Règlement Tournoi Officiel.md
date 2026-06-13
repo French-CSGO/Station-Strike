@@ -562,7 +562,7 @@ Les organisateurs ne pourront être tenus responsables de tout manquement ou ret
 Ce règlement est conçu pour garantir que **Station Strike 2026** se déroule de manière fluide, compétitive et équitable pour tous les participants. Toutes les équipes et joueurs sont tenus de lire, comprendre et respecter ces règles. Le staff organisateur sera disponible tout au long de l'événement pour répondre aux questions ou fournir des clarifications si nécessaire.
 
 **IMPORTANT :**
-Les organisateurs de l'événement se réservent le droit de modifier ou d'amender ce règlement à tout moment. Tous les changements seront publiés publiquement avec des mises à jour de ce document et seront mis à disposition de tous les participants via le site Station Strike.gg et le serveur Discord officiel Station Strike.
+Les organisateurs de l'événement se réservent le droit de modifier ou d'amender ce règlement à tout moment. Tous les changements seront publiés publiquement avec des mises à jour de ce document et seront mis à disposition de tous les participants via le dépôt officiel et le serveur Discord officiel Station Strike.
 
 En s'inscrivant et en participant au tournoi, tous les joueurs et équipes acceptent de :
 Respecter toutes les règles énoncées dans ce document.

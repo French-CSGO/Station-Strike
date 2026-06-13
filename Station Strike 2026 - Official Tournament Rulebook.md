@@ -20,7 +20,7 @@ This rulebook details all rules, format, and expectations for teams participatin
 
 **Tier & Standing:** Tier 2 VRS-ranked event (results contribute to Valve's regional ranking)
 
-**Dates:** July 22–26
+**Dates:** July 22–26, 2026
 
 **Venue:** Station 35, France
 
@@ -542,7 +542,7 @@ Organizers shall not be liable for any failure or delay in fulfilling their obli
 This rulebook is designed to ensure that **Station Strike 2026** runs smoothly, competitively, and fairly for all participants. All teams and players are required to read, understand, and comply with these rules. Organizing staff will be available throughout the event to answer questions or provide clarifications as needed.
 
 **IMPORTANT:**
-The event organizers reserve the right to modify or amend this rulebook at any time. All changes will be publicly posted with updates to this document and will be made available to all participants via Station Strike.gg and the official Station Strike Discord server.
+The event organizers reserve the right to modify or amend this rulebook at any time. All changes will be publicly posted with updates to this document and will be made available to all participants via the official repository and the official Station Strike Discord server.
 
 By registering and participating in the tournament, all players and teams agree to:
 - Comply with all rules set forth in this document.
