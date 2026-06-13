@@ -1,36 +1,64 @@
-# **Valve Regional Standings (VRS)**
+# Station Strike 2026
 
-## **Tournament Coverage**
+## Présentation du tournoi
+Station Strike marque la volonté de Station 35 de proposer un nouveau rendez-vous français pour la scène Counter-Strike. Un événement construit autour d’une compétition claire, d’un cadre offline solide et d’une expérience pensée pour les joueurs comme pour les spectateurs.
 
-This tournament complies with [Valve's Tournament Operator Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md) in order to be "Ranked" as a Tier 2 Open Tournament under the Valve Regional Standings.
+## Dates du tournoi
+Du 22 au 26 juillet 2026
 
-This does not confirm with 100% certainty that the event is "Ranked" and relies on data coverage by HLTV. Station Strike will apply for HLTV coverage under their specific guidelines no more than 15 days prior to the start of the "Main Event" stage.
+- **22 juillet** : Groupe A & B
+- **23 juillet** : Groupe C & D
+- **24 juillet** : huitièmes de finale
+- **25 juillet** : Quarts et demi-finales
+- **26 juillet** : Petite et grande Finale
 
-Station Strike is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all Counter-Strike LAN events organized by FragAdmin.
+## Lieu du tournoi
+**Station 35**  
+31 rue Xavier Grall, 35700 Rennes, France
 
-## **Required Details**
-Match Dates: 22/07/2026 - 26/07/2026
+## Format du tournoi
+- 24 équipes au total
+- 4 poules de 4 équipes en bracket GSL
+- 8 meilleures équipes au seeding VRS directement qualifiées en huitièmes de finale
+- 2 meilleures équipes de chaque poule accèdent aux huitièmes de finale
 
-website : [Station Strike 2026](https://github.com/French-CSGO/Station-Strike)
+## Cash prize
+- 7 500 € pour le 1er
+- 3 750 € pour le 2ème
+- 2 250 € pour le 3ème
+- 1 500 € pour le 4ème
 
-Signups Opening: 18:00 GMT+0 30/04/2026
+## Inscription
+### Pack A - Slot NO BYOC
+**1 000,00 € HT**
 
-Signups Opening (8 additional slots): 18:00 GMT+0 15/05/2026
+### Pack B - Slot NO BYOC + Hôtel + Transport
+- Hôtel (5 nuits de 3 chambres doubles + petit déj)
+- Transport A/R (gare/aéroport - hôtel)
 
-Signups Deadline: 18:00 GMT+0 11/07/2026
+**2 500,00 € HT**
 
-Tournament Operator: FragAdmin
+### Pack C - Slot NO BYOC + Hôtel + Transport + Catering
+- Hôtel (5 nuits de 3 chambres doubles + petit déj)
+- Transport A/R (gare/aéroport - hôtel)
+- Catering (2 repas pour 5 jours pour 6 joueurs/équipe + boissons)
 
-VRS Filter: None
+**3 500,00 € HT**
 
-Invite Start Rank: N/A (Open Registration)
+## Setups
+- CPU : AMD Ryzen 5 9600X
+- CG : Nvidia GeForce RTX 4060 Ti
+- RAM : 32GO DDR5
+- Écran : AOC Gaming 24.5" FHD (240 HZ)
 
-Invitation Date: N/A
+## Processus d'inscription
+Ouverture des inscriptions : 23 juin, 18:00 GMT  
+Clôture des inscriptions : 12 juillet, 22:00 GMT
 
-Visa Region: France
+Processus d'inscription :
+1. Compléter le formulaire d'inscription.
+2. Les détails des modalités de paiement seront envoyés à l'adresse e-mail utilisée lors de l'inscription.
+3. Après réception des modalités de paiement, vous disposez de 24 heures pour finaliser le paiement et transmettre une preuve de paiement. Sans finalisation dans ce délai, le slot est attribué à la prochaine équipe sur liste d'attente.
+4. Attendre la confirmation de l'organisateur.
 
-Tournament Location: France / Station 35 (LAN)
-
-Teams will be seeded by the VRS Rankings July 6th invite update. For teams that do not have a VRS rank, they will be seeded in accordance with Faceit Elo.
-
-Prize pool distribution can be found [here](https://github.com/French-CSGO/Station-Strike/blob/main/Station%20Strike%202026%20-%20Official%20Tournament%20Rulebook.md).
+Les équipes sont acceptées selon l'ordre de réception des preuves de paiement. Aucune invitation directe.
