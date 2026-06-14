@@ -32,7 +32,7 @@ Tous les participants doivent être présents sur place.
 
 ### Inscription
 
-Les équipes doivent s'inscrire sur [http://www.TBD.gg](https://TBD).
+Les équipes doivent s'inscrire sur [Formulaire d'inscription](https://forms.gle/QJyLJNzjxfibn54u5).
 
 Les inscriptions sont traitées par ordre de **réception de la preuve de paiement**. Aucune invitation.
 Les inscriptions ferment automatiquement le **11 juillet 2026 à 20h00 (heure de Paris)**.
@@ -51,7 +51,7 @@ Les inscriptions ferment automatiquement le **11 juillet 2026 à 20h00 (heure de
 
 #### Processus d'inscription
 
-1. **Remplir le formulaire d'inscription** sur [http://www.TBD.gg](https://TBD).
+1. **Remplir le formulaire d'inscription** sur [Formulaire d'inscription](https://forms.gle/QJyLJNzjxfibn54u5).
 2. **Les informations de paiement** seront envoyées à l'adresse e-mail utilisée lors de l'inscription.
 3. Vous disposez de **24 heures** pour effectuer le paiement et envoyer la preuve de paiement après réception des modalités de paiement.
 4. ⚠️ Si le paiement n'est pas effectué dans les délais, le slot sera transmis à l'équipe suivante sur la liste.
