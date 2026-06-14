@@ -108,7 +108,7 @@ Station Strike 2026 se déroule sur cinq jours, avec une phase de groupes au for
 16 équipes s'affrontent dans 4 groupes GSL de 4 équipes chacun. Les 2 meilleures équipes de chaque groupe avancent en Playoffs.
 
 **Jours 3–5 – Playoffs :**
-Un bracket de double élimination à 16 équipes regroupe les 8 équipes issues de la phase de groupes et les 8 équipes les mieux classées au VRS, directement placées en Huitièmes de finale.
+Un bracket de simple élimination à 16 équipes regroupe les 8 équipes issues de la phase de groupes et les 8 équipes les mieux classées au VRS, directement placées en Huitièmes de finale.
 
 ---
 
@@ -173,7 +173,7 @@ La phase de groupes devrait se terminer à la fin du Jour 2, après quoi les éq
 | 13–16 | Deuxièmes de groupes, par ordre de classement VRS / critères de classement initial |
 
 ### Format du bracket
-Bracket à double élimination — les équipes ne sont éliminées qu'après deux défaites.
+Bracket à simple élimination — les équipes ne sont éliminées qu'après deux défaites.
 
 ### Format des matchs
 
