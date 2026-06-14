@@ -32,7 +32,7 @@ All participants must be present on-site.
 
 ### Registration
 
-Teams must register at [http://www.TBD.gg](https://TBD).
+Teams must register at [Register Form](https://forms.gle/QJyLJNzjxfibn54u5).
 
 Registrations are processed in order of **payment proof received**. No invites.
 Registrations automatically close on **July 11, 2026 at 8:00 PM (Paris time)**.
@@ -51,7 +51,7 @@ Registrations automatically close on **July 11, 2026 at 8:00 PM (Paris time)**.
 
 #### Registration Process
 
-1. **Complete the registration form** at [http://www.TBD.gg](https://TBD).
+1. **Complete the registration form** at [Register Form](https://forms.gle/QJyLJNzjxfibn54u5).
 2. **Payment details** will be sent to the email used during registration.
 3. You have **24 hours** to complete the payment and send proof of payment after receiving the payment terms.
 4. ⚠️ If payment is not completed in time, the slot will be forwarded to the next team on the list.
