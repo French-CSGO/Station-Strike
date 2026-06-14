@@ -27,7 +27,7 @@ Invitation Date: N/A
 
 Visa Region: France
 
-Tournament Location: France / Strasbourg (LAN)
+Tournament Location: France / Rennes (LAN)
 
 Teams will be seeded by the VRS Rankings July 6th invite update, for teams that do not have a VRS rank they will be seeded in accordance Faceit Elo.
 
