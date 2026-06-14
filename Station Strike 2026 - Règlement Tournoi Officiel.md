@@ -72,7 +72,7 @@ Ouvert à toutes les équipes de la région Globale telle que définie par les r
 
 ### Procédure d'inscription
 
-1. **Remplir le formulaire d'inscription** sur [http://www.TBD.gg](https://TBD).
+1. **Remplir le formulaire d'inscription** sur [Formulaire d'inscription](https://forms.gle/QJyLJNzjxfibn54u5).
 2. **Les informations de paiement** seront envoyées à l'adresse e-mail utilisée lors de l'inscription.
 3. Vous disposez de **24 heures** pour effectuer le paiement et envoyer la preuve de paiement après réception des modalités de paiement.
 4. ⚠️ Si le paiement n'est pas effectué dans les délais, le slot sera transmis à l'équipe suivante sur la liste.
