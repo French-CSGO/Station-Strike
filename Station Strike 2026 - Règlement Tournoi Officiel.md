@@ -173,7 +173,7 @@ La phase de groupes devrait se terminer à la fin du Jour 2, après quoi les éq
 | 13–16 | Deuxièmes de groupes, par ordre de classement VRS / critères de classement initial |
 
 ### Format du bracket
-Bracket à simple élimination — les équipes ne sont éliminées qu'après deux défaites.
+Bracket à simple élimination — les équipes ne sont éliminées qu'après une défaite.
 
 ### Format des matchs
 
