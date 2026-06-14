@@ -72,7 +72,7 @@ Open to all teams from the Global region as defined by Valve's official rules an
 
 ### Registration Procedure
 
-1. **Complete the registration form** at [http://www.TBD.gg](https://TBD).
+1. **Complete the registration form** at [Register Form](https://forms.gle/QJyLJNzjxfibn54u5).
 2. **Payment details** will be sent to the email used during registration.
 3. You have **24 hours** to complete the payment and send proof of payment after receiving the payment terms.
 4. ⚠️ If payment is not completed in time, the slot will be forwarded to the next team on the list.
