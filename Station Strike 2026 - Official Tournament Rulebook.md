@@ -59,7 +59,10 @@ Registrations automatically close on **July 11, 2026 at 8:00 PM (Paris time)**.
 
 ### Prize Pool
 
-The total prize pool for the event is **€15,000**.
+The prize pool is crowdfunded by team entry fees and scales with the number of registered teams.
+0-7 teams → Event Cancel
+8-15 teams → **€5,000 total prize pool**
+16-23 teams → **€10,000 total prize pool**
 24 teams → **€15,000 total prize pool**
 
 ---
@@ -506,13 +509,13 @@ The Station Strike 2026 tournament prize pool is funded by the organizer.
 
 ### Prize Pool Breakdown (€)
 
-| Place | Prize |
-|-------|-------|
-| 🥇 1st place | €7,500 |
-| 🥈 2nd place | €3,750 |
-| 🥉 3rd place | €2,250 |
-| 4th place | €1,500 |
-| **Total** | **€15,000** |
+| Place | 0-7 équipes | 8-15 équipes | 16-23 équipes | 24 équipes |
+|-------|------|------|------|------|
+| 🥇 1st place | Canceled | 2 500 € | 5 000 € | 7 500 € |
+| 🥈 2nd place | Canceled | 1 250 € | 2 500 € | 3 750 € |
+| 🥉 3rd place | Canceled | 750 € | 1 500 € | 2 250 € |
+| 4th place | Canceled | 500 € | 1 000 € | 1 500 € |
+| **Total** | **Canceled** | **5 000 €** | **10 000 €** | **15 000 €** |
 
 ### Payment Terms
 
