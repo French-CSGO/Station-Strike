@@ -59,7 +59,11 @@ Les inscriptions ferment automatiquement le **11 juillet 2026 à 20h00 (heure de
 
 ### Prize Pool
 
-Le prize pool total de l'événement est de **15 000 €**.
+Le Prize Pool est financée par les frais d'inscription des équipes et évolue en fonction du nombre d'équipes inscrites.
+
+0-7 équipes → Événement annulé
+8-15 équipes → **5 000 € de prize pool total**
+16-23 équipes → **10 000 € de prize pool total**
 24 équipes → **15 000 € de prize pool total**
 
 ---
@@ -506,13 +510,13 @@ Le prize pool du tournoi Station Strike 2026 est financé par l'organisateur.
 
 ### Répartition du prize pool (€)
 
-| Place | Prix |
-|-------|------|
-| 🥇 1ère place | 7 500 € |
-| 🥈 2ème place | 3 750 € |
-| 🥉 3ème place | 2 250 € |
-| 4ème place | 1 500 € |
-| **Total** | **15 000 €** |
+| Place | 0-7 équipes | 8-15 équipes | 16-23 équipes | 24 équipes |
+|-------|------|------|------|------|
+| 🥇 1ère place | Annulé | 2 500 € | 5 000 € | 7 500 € |
+| 🥈 2ème place | Annulé | 1 250 € | 2 500 € | 3 750 € |
+| 🥉 3ème place | Annulé | 750 € | 1 500 € | 2 250 € |
+| 4ème place | Annulé | 500 € | 1 000 € | 1 500 € |
+| **Total** | **Annulé** | **5 000 €** | **10 000 €** | **15 000 €** |
 
 ### Modalités de paiement
 
