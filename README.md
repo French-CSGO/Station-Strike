@@ -6,12 +6,12 @@ This tournament complies with [Valve's Tournament Operator Requirements](https:/
 
 This does not confirm with 100% certainty that the event is "Ranked" and relies on data coverage by HLTV. Station Strike will apply for HLTV coverage under their specific guidelines no more than 15 days prior to the start of the "Main Event" stage.
 
-Station Strike is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all of our Counter-Strike LAN events since Hoplan.
+Station Strike is not able to guarantee prior to the event if coverage is confirmed. We will follow due process to receive coverage as we have for all of our Counter-Strike LAN events since Gamers Assembly.
 
 ## **Required Details**
 Match Dates: 22/07/2026 - 25/07/2026
 
-website : [Station Strike TBD](https://stationstrike.com)
+website : [Station Strike](https://stationstrike.com)
 
 Signups Opening: 18:00 GMT+0 23/06/2026
 
