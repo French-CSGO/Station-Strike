@@ -11,7 +11,7 @@ Station Strike is not able to guarantee prior to the event if coverage is confir
 ## **Required Details**
 Match Dates: 22/07/2026 - 25/07/2026
 
-website : [Station Strike TBD](https://TBD)
+website : [Station Strike TBD](https://stationstrike.com)
 
 Signups Opening: 18:00 GMT+0 23/06/2026
 
