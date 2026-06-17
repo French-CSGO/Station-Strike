@@ -13,7 +13,7 @@ Match Dates: 22/07/2026 - 25/07/2026
 
 website : [Station Strike](https://stationstrike.com)
 
-Signups Opening: 18:00 GMT+0 23/06/2026
+Signups Opening: 18:00 GMT+0 24/06/2026
 
 Signups Deadline: 18:00 GMT+0 11/07/2026
 
