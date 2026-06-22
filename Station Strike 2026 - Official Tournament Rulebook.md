@@ -285,7 +285,7 @@ The map pool consists of 7 maps:
 - Mirage
 - Nuke
 - Ancient
-- Overpass
+- Cache
 - Dust2
 - Anubis
 
