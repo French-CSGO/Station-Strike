@@ -286,7 +286,7 @@ Le pool de cartes est composé de 7 cartes :
 - Mirage
 - Nuke
 - Ancient
-- Overpass
+- Cache
 - Dust2
 - Anubis
 
