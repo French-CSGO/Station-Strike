@@ -409,7 +409,7 @@ The venue will provide fully equipped gaming stations for all participants. Each
 - **CPU:** AMD Ryzen 5 9600X
 - **GPU:** Nvidia GeForce RTX 4060 Ti
 - **RAM:** 32 GB DDR5
-- **Monitor:** AOC Gaming 24.5" FHD — 240 Hz
+- **Monitor:** ZOWIE XL2566X+ 24.1" LED — 400 Hz
 
 A table, a chair, a network connection, and a power supply are also included at each station.
 
