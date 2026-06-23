@@ -410,7 +410,7 @@ Le lieu mettra à disposition des stations de jeu entièrement équipées pour t
 - **CPU :** AMD Ryzen 5 9600X
 - **GPU :** Nvidia GeForce RTX 4060 Ti
 - **RAM :** 32 Go DDR5
-- **Écran :** AOC Gaming 24,5" FHD — 240 Hz
+- **Écran :** ZOWIE XL2566X+ 24.1" LED — 400 Hz
 
 Une table, une chaise, une connexion réseau et une alimentation électrique sont également incluses à chaque station.
 
