@@ -485,6 +485,17 @@ All match results are considered official as reported by the server and admins. 
 **Betting:**
 Players, coaches, and team staff are not permitted to bet on matches at this tournament. Any association with betting fraud or gambling on results will result in exclusion from the event.
 
+**Sponsorship Compliance (Valve IP & Licensing)**
+In accordance with Valve's licensing requirements for VRS-ranked events, all team sponsors must comply with Valve's guidelines and the Steam Subscriber Agreement.
+The following categories of sponsors are strictly prohibited from appearing in any form during the tournament — including but not limited to player jerseys, team banners, social media content published during the event, or any material visible during broadcasts:
+
+Sports betting, gambling, or online casino platforms
+Key reselling platforms or skin trading/gambling sites
+Any company that generates revenue through activities that interact with players' Valve game inventories in violation of the Steam Subscriber Agreement
+
+Teams must declare all active sponsors upon registration. Any team found to be in violation of this rule will be required to remove the sponsor's branding immediately. Failure to comply within the deadline set by admins may result in disqualification from the tournament and forfeiture of all associated prizes.
+The organizer reserves the right to request proof of the nature of any sponsorship agreement and to reject any sponsor deemed non-compliant, in order to maintain the event's VRS ranking status.
+
 ---
 
 ## Additional Provisions
