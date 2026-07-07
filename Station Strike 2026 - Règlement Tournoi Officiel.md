@@ -486,6 +486,18 @@ Tous les résultats des matchs sont considérés comme officiels tels que rappor
 **Paris :**
 Les joueurs, coachs et membres du staff des équipes ne sont pas autorisés à parier sur les matchs de ce tournoi. Toute association avec une fraude aux paris ou des jeux d'argent sur les résultats entraînera l'exclusion de l'événement.
 
+**Conformité des Sponsors (Propriété Intellectuelle Valve & Licence)**
+
+Conformément aux exigences de licence de Valve pour les événements classés VRS, tous les sponsors des équipes doivent respecter les directives de Valve et les Conditions d'Utilisation Steam.
+Les catégories de sponsors suivantes sont strictement interdites sous toute forme durant le tournoi — y compris, sans s'y limiter, sur les maillots des joueurs, les bannières d'équipe, les contenus publiés sur les réseaux sociaux pendant l'événement, ou tout support visible lors des diffusions :
+
+Plateformes de paris sportifs, jeux d'argent ou casinos en ligne
+Plateformes de revente de clés ou sites d'échange/gambling de skins
+Toute entreprise générant des revenus via des activités interagissant avec les inventaires de jeux Valve en violation des Conditions d'Utilisation Steam
+
+Les équipes doivent déclarer l'ensemble de leurs sponsors actifs lors de leur inscription. Toute équipe en infraction sera tenue de retirer la marque du sponsor immédiatement. Le non-respect de cette obligation dans le délai fixé par les admins pourra entraîner la disqualification du tournoi et la perte de tous les gains associés.
+L'organisateur se réserve le droit de demander tout justificatif relatif à un accord de sponsoring et de refuser tout sponsor jugé non conforme, afin de préserver le statut VRS de l'événement.
+
 ---
 
 ## Dispositions supplémentaires
